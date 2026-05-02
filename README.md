@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Sagarika+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%9A%80;I+love+to+code+%F0%9F%8E%93;Currently+exploring+AI+%F0%9F%A4%96;Top+5+@+Extern+Hack+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Sagarika+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%9A%80;I+love+to+code+%F0%9F%8E%93;Currently+exploring+AI+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -97,13 +97,11 @@ const sagarika = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=teppala-sagarika&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=1800" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=teppala-sagarika&theme=midnight-purple&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=teppala-sagarika&show_icons=true&theme=midnight-purple&hide_border=true" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teppala-sagarika&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=teppala-sagarika&layout=compact&theme=midnight-purple&hide_border=true" />
 
 </div>
 
