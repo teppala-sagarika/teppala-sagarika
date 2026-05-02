@@ -116,18 +116,11 @@ const sagarika = {
 </div>
 
 ---
-
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teppala-sagarika/teppala-sagarika/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teppala-sagarika/teppala-sagarika/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/teppala-sagarika/teppala-sagarika/output/github-snake.svg" />
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/teppala-sagarika/teppala-sagarika/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 
 ---
 
@@ -147,8 +140,6 @@ const sagarika = {
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" />
-
-**✨ "Understand the code. Then own it." ✨**
 
 *Made with 💜 by Teppala Sagarika*
 
