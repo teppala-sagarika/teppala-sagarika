@@ -1,18 +1,14 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Teppala%20Sagarika&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Educator%20%7C%20AI%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Teppala%20Sagarika&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Sagarika+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%9A%80;I+teach+before+I+code+%F0%9F%8E%93;Currently+exploring+AI+%F0%9F%A4%96;Top+5+@+Extern+Hack+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Sagarika+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%9A%80;I+love+to+code+%F0%9F%8E%93;Currently+exploring+AI+%F0%9F%A4%96;Top+5+@+Extern+Hack+%F0%9F%8F%86" alt="Typing SVG" />
 </a>
 
 <br/>
-
-<!-- Profile Views + Followers badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=teppala-sagarika&label=Profile%20Views&color=7c3aed&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/teppala-sagarika?label=Followers&style=flat-square&color=7c3aed)](https://github.com/teppala-sagarika)
 
 </div>
 
@@ -26,7 +22,6 @@ const sagarika = {
   role        : "MERN Stack Developer",
   philosophy  : "Understand the code, don't just write it.",
   currentFocus: "Learning Artificial Intelligence 🤖",
-  teaching    : true,  // Always!
   funFact     : "Top 5 at Extern Hack 🏆 (built a LeetCode Chrome Extension!)",
   motto       : "I love to teach — be it anything 🎓"
 };
@@ -142,7 +137,7 @@ const sagarika = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teppala-sagarika)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teppala-sagarika)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsagarika/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/teppala-sagarika)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/teppala-sagarika)
 
