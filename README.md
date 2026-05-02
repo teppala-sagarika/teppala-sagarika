@@ -97,8 +97,9 @@ const sagarika = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=teppala-sagarika&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=teppala-sagarika&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a78bfa&fire=7c3aed&currStreakLabel=c4b5fd" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=teppala-sagarika&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=1800" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=teppala-sagarika&theme=midnight-purple&hide_border=true" />
 
 <br/>
 
